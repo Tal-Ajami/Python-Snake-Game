@@ -7,8 +7,8 @@ The project demonstrates **object-oriented programming (OOP)** principles, modul
 
 ## Screenshots
 
-![Game Screenshot 1](screenshot1.png)  
-![Game Screenshot 2](screenshot2.png)
+![Screenshot1](screenshot1.png)  
+![Screenshot2](screenshot2.png)
 
 ---
 
